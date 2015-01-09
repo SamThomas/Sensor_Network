@@ -11,3 +11,4 @@ OS application on native and microcontroller platform.
 For this project we obviously had to write Patch, Makefile and scripts using
 Linux tools.
 
+![](http://www.firefishnetworks.com/wp-content/uploads/2014/06/contiki.png "")
